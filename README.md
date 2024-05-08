@@ -7,8 +7,10 @@ PyCharm IDE
 How to clone 
 git clone https://github.com/kayaismail/uygun.git
 
-Uygun is an automation tests project for 
+Uygun is an automation tests project for Enuygun
+
 Install the required Python packages:
+
 pip install -r requirements.txt
 
 How to run tests
